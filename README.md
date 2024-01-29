@@ -1,10 +1,10 @@
-# Syrex Library V3
+# Syrex Library
 
 ## loadstring Source
 
 Library Source
 ```lua
-local SyrexLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/SyrexHUB/SyrexLib/main/Source.lua"))()
+local SyrexLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/gerisxx/e/main/Source.lua"))()
 ```
 Source Functions
 ```lua
